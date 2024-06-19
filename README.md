@@ -3,8 +3,11 @@ Glad you made it.
 
 ## Me
 🧑‍🎓 I study Computer Science at Stuttgart Media University
+
 🧑‍💻 Currently employed as Customer Success Operations Manager at Conceptboard
+
 🧠 I enjoy working with Java and Rust
+
 🎶 I like music (tech) and language learning
 
 ## Cool projects
