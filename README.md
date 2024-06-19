@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hey! Welcome to my profile
+Glad you made it.
 
-<!--
-**julian-schn/julian-schn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me
+🧑‍🎓 I study Computer Science at Stuttgart Media University
+🧑‍💻 Currently employed as Customer Success Operations Manager at Conceptboard
+🧠 I enjoy working with Java and Rust
+🎶 I like music (tech) and language learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cool projects
+Here's my humble list of projects I've been involved in
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
