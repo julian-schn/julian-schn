@@ -5,7 +5,7 @@ Glad you made it.
 
 ## Me
 - I study Computer Science at Stuttgart Media University
-- I Currently employed as Customer Success Operations Manager at Conceptboard
+- I currently wotk at Conceptboard in Customer Supprt & Enablement
 - I enjoy working with Java, and Golang sometimes
 - I like music (tech) and language learning
 
