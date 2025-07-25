@@ -12,5 +12,6 @@ Glad you made it.
 ## Cool projects
 Here's my humble list of projects I am or I've been involved in
 - Taskflow (ongoing), todo app on AWS with Lambda and DynamoDB, Java Springboot, JWT, React, Docker
+- [Blog post about Open-Source AI for Enterprise](https://blog.mi.hdm-stuttgart.de/index.php/2025/07/25/open-source-ai-models-opportunities-and-challenges-for-enterprises/) on my Unis Comp.Sci Blog I've written
 - [CineCritique](https://github.com/julian-schn/cinecritique-frontend), Flutter, Java, CI/CD, Docker, JWT, KeyCloak, MongoDB
 - Quizy, Java Springboot, PostgreSQL, React, Git, REST
