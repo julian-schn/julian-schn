@@ -9,6 +9,10 @@ Glad you made it.
 - I enjoy working with Java, and Golang sometimes
 - I like music (tech) and language learning
 
+## Hire me? (Yes please!)
+- Look at my CV [here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV%20July%202025%20EN.pdf), and get to know me better
+- Interest in software development with a focus on backend, but definitely not picky!
+
 ## Cool projects
 Here's my humble list of projects I am or I've been involved in
 - [Taskflow](https://github.com/julian-schn/taskflow-backend/) (ongoing), todo app on AWS with Lambda and DynamoDB, Java Springboot, JWT, React, Docker
