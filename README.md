@@ -8,6 +8,7 @@ Glad you made it.
 - I currently work at Conceptboard in Customer Supprt & Enablement
 - I enjoy working with Java, and Golang sometimes
 - I like music (tech) and language learning
+- Look at my [website](https://schniepp.dev/)!
 
 ## Hire me? (Yes please!)
 - Look at my [CV here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV.pdf), and get to know me better
