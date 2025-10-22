@@ -10,7 +10,7 @@ Glad you made it.
 - I like music (tech) and language learning
 
 ## Hire me? (Yes please!)
-- Look at my CV [here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV%20July%202025%20EN.pdf), and get to know me better
+- Look at my [CV here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV.pdf), and get to know me better
 - Interest in software development with a focus on backend, but definitely not picky!
 
 ## Cool projects
