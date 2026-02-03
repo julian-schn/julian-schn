@@ -1,3 +1,5 @@
+![Welcome to my profile](welcome.png)
+
 # Hey! Welcome to my profile
 Glad you made it.
 
@@ -11,6 +13,7 @@ languages: german, english, norwegian, java, go, python, danish, dutch
     likes: tech(duh), music, teaching, languages, grimy jazz clubs, oolong
 ```
 - Check out my [cool website](https://schniepp.dev/)!
+- Do reach out to me to chat about any of the afformenntioned thingns!
 
 ## Hire me? (Yes please!)
 - Look at my [CV here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV.pdf), and get to know me better
