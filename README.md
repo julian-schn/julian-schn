@@ -6,14 +6,14 @@ Glad you made it.
 ```yaml
 currently: studying computer science and media at stuttgart media university
      soon: inbound internn for cyber security at mercedes benz financial services
-    focus: backend development, cloud enginneering, devops, infra
+    focus: backend development, cloud engineering, devops, infra
 interests: scalable systems, automation, infrastructure, systems thinking
  location: greater stuttgart area (germany, baden württenberg)
 languages: german, english, norwegian, java, go, python, danish, dutch
     likes: tech(duh), music, teaching, languages, grimy jazz clubs, oolong
 ```
 - Check out my [cool website](https://schniepp.dev/)!
-- Do reach out to me to chat about any of the afformenntioned thingns!
+- Do reach out to me to chat about any of the afformentioned things!
 
 ## Hire me? (Yes please!)
 - Look at my [CV here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV.pdf), and get to know me better
