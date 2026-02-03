@@ -1,7 +1,6 @@
 # Hey! Welcome to my profile
 Glad you made it.
 
-## Julian
 ```yaml
 currently: studying computer science and media at stuttgart media university
      soon: inbound internn for cyber security at mercedes benz financial services
