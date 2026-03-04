@@ -5,7 +5,7 @@ Glad you made it.
 
 ```yaml
 currently: studying computer science and media at stuttgart media university
-     soon: inbound internn for cyber security at mercedes benz financial services
+     also: cyber security intern at mercedes benz financial services
     focus: backend development, cloud engineering, devops, infra
 interests: scalable systems, automation, infrastructure, systems thinking
  location: greater stuttgart area (germany, baden württenberg)
