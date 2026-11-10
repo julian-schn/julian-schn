@@ -5,7 +5,8 @@ Glad you made it.
 
 ```yaml
 currently: studying computer science and media at stuttgart media university
-     also: cyber security intern at mercedes benz financial services
+     also: working student in support & enablement at conceptboard
+     next: exchange semester at edinburgh napier university (jan 2027)
     focus: backend development, cloud engineering, devops, infra
 interests: scalable systems, automation, infrastructure, systems thinking
  location: greater stuttgart area (germany, baden württenberg)
