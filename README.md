@@ -16,7 +16,7 @@ languages: german, english, norwegian, java, go, python, danish, dutch
 - Do reach out to me to chat about any of the aforementioned things!
 
 ## Hire me? (Yes please!)
-- Look at my [CV here](https://github.com/julian-schn/julian-schn/blob/main/Julian%20CV.pdf), and get to know me better
+- Look at my [CV here](https://github.com/julian-schn/julian-schn/raw/main/Julian%20CV.pdf), and get to know me better
 - Interest in backend development, cloud infra, devops, and more!
 
 ## Cool projects
